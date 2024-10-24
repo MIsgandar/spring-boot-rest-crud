@@ -22,7 +22,7 @@ public class StudentRestController {
         theStudents = new ArrayList<>();
         theStudents.add(new Student("Jon", "Doe"));
         theStudents.add(new Student("jack", "Spar"));
-        theStudents.add(new Student("Mari", "Leds"));
+        theStudents.add(new Student("Mari", "Oka"));
     }
 
 
